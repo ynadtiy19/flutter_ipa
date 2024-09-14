@@ -1,3 +1,4 @@
+```bash
 name: iOS-ipa-build
 
 on:
@@ -40,3 +41,6 @@ jobs:
           tag: v1.0
           overwrite: true
           body: "This is first release"
+
+```
+
